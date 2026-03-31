@@ -1,0 +1,5 @@
+{
+  "name": "Huntly",
+  "description": "The ultimate crowdsourced price tracker. Hunt for the best deals, verify market prices, and save more together.",
+  "requestFramePermissions": ["geolocation", "camera"]
+}
